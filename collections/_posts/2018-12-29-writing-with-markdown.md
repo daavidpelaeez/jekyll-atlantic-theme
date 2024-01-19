@@ -1,63 +1,23 @@
 ---
 layout: post
-title: "Writing With Markdown"
+title: "Mares en España"
 date: 2018-12-29T10:26:40+10:00
-authors: ["Sage Kirk", "Mike Vance"]
+authors: ["DavidyAna"]
 categories: ["Development", "Javascript", "Web Design"]
 tags: ["Writing"]
-description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
+description: 
 thumbnail: "assets/images/unsplash-CTivHyiTbFw-640x360.jpeg"
 image: "https://source.unsplash.com/CTivHyiTbFw/1600x900"
 ---
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+Mar Mediterráneo: Baña la costa este de España, desde la frontera con Francia hasta la región de Andalucía. Las aguas del Mediterráneo son conocidas por su color turquesa y su temperatura agradable. Destinos populares en esta costa incluyen Barcelona, Valencia, la Costa Blanca y la Costa del Sol.
 
-## History
+Mar Cantábrico: Bordea la costa norte de España, desde el País Vasco hasta Galicia. El Mar Cantábrico es conocido por sus aguas frescas y sus paisajes escarpados. Ciudades como San Sebastián, Santander y Gijón ofrecen encanto marítimo en esta región.
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+Mar de las Azores (Atlántico): Situado al suroeste de la península ibérica, el Mar de las Azores, parte del océano Atlántico, baña las islas atlánticas de España, como las Islas Canarias. Las aguas de este mar son ideales para actividades acuáticas y observación de vida marina.
 
-> To write using an easy-to-read and easy-to-write plain text format
+Mar Balear (Mediterráneo): Rodea las Islas Baleares, incluyendo Mallorca, Menorca, Ibiza y Formentera. Este mar ofrece aguas cristalinas y calas encantadoras, convirtiéndolo en un destino ideal para los amantes de la playa y la navegación.
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+Mar de Alborán (Mediterráneo): Se encuentra entre la costa sur de la península ibérica y el norte de África. Las aguas del Mar de Alborán son conocidas por su claridad y su importancia en la diversidad marina.
 
-### Syntax Highlighting
-
-```js
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-## Markdown Flavours
-
-There are several different versions of markdown
-
-### CommonMark
-
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
-
-### GitHub Flavored Markdown (GFM)
-
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions.
-
-![unsplash](https://source.unsplash.com/3igFnx0L2pY/640x360)
-
-### Markdown Extra
-
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
-
-Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- "fenced code blocks" that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+Mar de Liguria (Mediterráneo): Aunque la mayor parte de este mar baña la costa italiana, una pequeña porción toca la costa nordeste de Cataluña, cerca de la Costa Brava. Esta región es conocida por sus acantilados escarpados y aguas cristalinas.
