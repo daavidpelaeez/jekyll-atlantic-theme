@@ -1,62 +1,26 @@
 ---
 layout: post
-title: "Styling CSS"
+title: "Mejores Playas España"
 date: 2018-12-29T10:26:40+10:00
-authors: ["Mike Vance"]
+authors: ["DavidYAna"]
 categories: ["Development", "Javascript"]
-description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
+description: Mejores playas
 thumbnail: "https://source.unsplash.com/INHtWKpBTsA/640x360"
 image: "https://source.unsplash.com/INHtWKpBTsA/1600x900"
 ---
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+Playa de la Concha (San Sebastián, País Vasco): Con su fina arena dorada y aguas tranquilas, la Playa de la Concha es conocida por su belleza escénica y es considerada una de las mejores playas urbanas de Europa.
 
-## History
+Playa de Ses Illetes (Formentera, Islas Baleares): Situada en la idílica isla de Formentera, esta playa destaca por sus aguas cristalinas y su arena blanca. Es un destino popular para aquellos que buscan un ambiente relajado y hermosos paisajes.
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+Playa de las Catedrales (Ribadeo, Galicia): En la costa atlántica, esta playa es conocida por sus formaciones rocosas imponentes que crean arcos y cuevas naturales. Durante la marea baja, se pueden explorar estos impresionantes acantilados.
 
-> To write using an easy-to-read and easy-to-write plain text format
+Cala Comte (Ibiza, Islas Baleares): Ibiza es famosa por sus vibrantes playas y vida nocturna, y Cala Comte no es una excepción. Aguas turquesas y espectaculares puestas de sol hacen de esta cala un lugar especial.
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+Playa de Bolonia (Tarifa, Andalucía): Situada en la Costa de la Luz, esta playa combina dunas de arena fina con aguas claras. Además, cerca se encuentra la antigua ciudad romana de Baelo Claudia, que añade un toque histórico al lugar.
 
-### Syntax Highlighting
+Playa de Rodas (Islas Cíes, Galicia): Parte del Parque Nacional Marítimo-Terrestre de las Islas Atlánticas de Galicia, Rodas es conocida por su arena blanca y aguas cristalinas. Fue nombrada la "mejor playa del mundo" por el periódico británico The Guardian en 2007.
 
-```js
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
+Playa de Maspalomas (Gran Canaria, Islas Canarias): Esta playa en el sur de Gran Canaria es famosa por sus dunas de arena dorada y su ambiente soleado. Es un lugar ideal para disfrutar del sol y explorar el entorno natural.
 
-## Markdown Flavours
-
-There are several different versions of markdown
-
-### CommonMark
-
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
-
-### GitHub Flavored Markdown (GFM)
-
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions.
-
-![unsplash](https://source.unsplash.com/3igFnx0L2pY/640x360)
-
-### Markdown Extra
-
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
-
-Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- "fenced code blocks" that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+Playa de las Américas (Tenerife, Islas Canarias): En el sur de Tenerife, esta playa ofrece una amplia extensión de arena volcánica y aguas cálidas. Es conocida por su animada vida nocturna y una amplia gama de instalaciones turísticas.
