@@ -1,62 +1,22 @@
 ---
-title: "Hosting Your Static Site"
+title: "Calas en España"
 date: 2018-12-29T10:24:47+10:00
 layout: post
-authors: ["Sage Kirk", "Mike Young"]
+authors: ["DavidYAna"]
 categories: ["Hosting", "Development"]
-description: "Hosting your website as a static site will improve performance and improve security."
+description: "Calas en España"
 thumbnail: "https://source.unsplash.com/y3PdLg_zSDs/640x360"
 image: "https://source.unsplash.com/y3PdLg_zSDs/1600x900"
 ---
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+España, con sus costas bañadas por el Mar Mediterráneo y el Océano Atlántico, alberga algunas de las calas más impresionantes del mundo. Desde el norte de la Península Ibérica hasta las islas Baleares y Canarias, cada rincón ofrece una experiencia única para aquellos que buscan la serenidad de las pequeñas y pintorescas calas.
 
-## History
+En la Costa Brava, en Cataluña, las calas de aguas turquesas como Cala Giverola y Cala Pola son refugios secretos rodeados de exuberante vegetación y acantilados imponentes. Estas pequeñas ensenadas proporcionan la oportunidad perfecta para disfrutar de la privacidad y la tranquilidad, lejos del bullicio de las playas más concurridas.
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+En la Costa Blanca, la Cala del Moraig en la provincia de Alicante, cautiva con su paisaje rocoso y sus aguas transparentes. Rodeada por altos acantilados, esta cala es un paraíso para los amantes del buceo, ofreciendo fascinantes formaciones submarinas.
 
-> To write using an easy-to-read and easy-to-write plain text format
+Mallorca, la isla más grande de las Baleares, es hogar de algunas de las calas más famosas. Cala Varques, escondida entre pinos y acantilados, ofrece aguas cristalinas y arena blanca, mientras que Cala Mondragó, en el Parque Natural de Mondragó, presenta una mezcla de belleza natural y facilidades para los visitantes.
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+En la Costa de la Luz, en Andalucía, calas como Cala de Aceite y Cala Varadero ofrecen un respiro tranquilo, donde los tonos dorados de la arena se encuentran con el azul del Atlántico.
 
-### Syntax Highlighting
-
-```js
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-## Markdown Flavours
-
-There are several different versions of markdown
-
-### CommonMark
-
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
-
-### GitHub Flavored Markdown (GFM)
-
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions.
-
-![unsplash](https://source.unsplash.com/3igFnx0L2pY/640x360)
-
-### Markdown Extra
-
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
-
-Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- "fenced code blocks" that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+Ya sea en la costa mediterránea, atlántica o en las islas, las calas de España invitan a descubrir la belleza íntima y la serenidad que solo estos rincones paradisíacos pueden proporcionar. Cada cala cuenta una historia única, un encuentro entre la tierra y el mar que deja una impresión duradera en quienes tienen la suerte de explorarlas.
